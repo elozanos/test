@@ -9,7 +9,7 @@ Si tenés alguna duda o pregunta, recordá que tenemos nuestro channel de Slack 
 # Cómo podés contribuir
 * [Reportando un bug](#reportando-un-bug)
 * [Proponiendo un nuevo feature o mejora](#proponiendo-un-nuevo-feature-o-mejora)
-* [Sumando un PR (feature o fix)](#sumando-un-pr-%28feature-o-fix%29)
+* [Sumando un PR (feature o fix)](#sumando-un-pr-feature-o-fix)
 
 ## Reportando un bug
 Si querés reportar un bug hacelo [acá](https://github.com/mercadolibre/fury_backend-mantra/issues/new?labels=bug).
